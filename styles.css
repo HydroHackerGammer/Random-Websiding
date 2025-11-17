@@ -1,0 +1,17 @@
+.blob{
+    color:lightsteelblue;
+    font-size: 30px;
+    font-weight: 10;
+}
+.hartmann{
+    color: cadetblue;
+}
+#how{
+    border: 2px solid cadetblue
+    
+}
+.hela{
+    position: sticky;
+    width: 100%;
+    background-color: cadetblue;
+}
