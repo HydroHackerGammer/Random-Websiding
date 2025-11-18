@@ -7,11 +7,24 @@
     color: cadetblue;
 }
 #how{
-    border: 2px solid cadetblue
     
 }
 .hela{
     position: sticky;
+    top: 0;
     width: 100%;
     background-color: cadetblue;
+    margin: 0;
+    padding: 5px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.blib{
+    color: lightblue;
+    font-size: 30px;   
+}
+.blab{
+    color:cadetblue;
 }
